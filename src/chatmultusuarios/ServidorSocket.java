@@ -1,6 +1,6 @@
 
 /* 
-* Autores: Alfredo e Selmo
+* Autores: Alfredo Costa e Selmo Eduardo
  */
 package chatmultusuarios;
 
